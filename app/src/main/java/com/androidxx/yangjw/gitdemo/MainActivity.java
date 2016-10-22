@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         viewById = (TextView) findViewById(R.id.main_show_txt);
         //这是昝奥博提交的代码-----
+        //这是李四提交的代码-----
 
     }
 }
